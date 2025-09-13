@@ -90,13 +90,16 @@ BuyMeACoffee-Dapp/
 │ ├── App.tsx # Root component
 │ ├── main.tsx # Entry point
 │ └── index.css # Global styles
+│
+├── public/ # Public assets (icons/logos)
+│ └── vite.svg
+│
 ├── contracts/ # Smart contracts
 ├── scripts/ # Deployment scripts
-├── public/ # Assets (icons/logos)
 ├── index.html # HTML template
 ├── package.json # Dependencies & scripts
-├── vite.config.ts # Vite config
-├── tsconfig.json # TS config
+├── vite.config.ts # Vite configuration
+├── tsconfig.json # TypeScript config
 └── README.md # Documentation
 
 
